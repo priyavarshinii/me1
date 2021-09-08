@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+      .myDiv {
+        border: 5px outset white;
+        background-color: #4f4f2f;
+        text-align: center;
+        width: 500px;
+
+      }
+      </style>
+    <style>
+        body {  
+    
+          background-image: url('https://wallup.net/wp-content/uploads/2015/12/232001-path-blurred-fence-wood-depth_of_field-bokeh-leaves-photography-nature-landscape-fall-red.jpg');
+        
+        background-repeat: no-repeat;
+        
+  background-size: 100% 120%;
+        }
+    
+        </style>
+        
+        
+</head>
+<body>  
+    <center> 
+            <img width="300 " height="400" style="border: 5px outset white; " src="C:\Users\priyavarshini\Downloads\file"  alt="ad">
+            
+            <div class="myDiv" >  
+            
+              <h1 style="color:white;"><b>Name  -Priya varshini.k </b></h1>
+              <h1 style="color: yellow;"><b>Branch - CSE  </b></h1>
+              <h1 style="color: orange;"><b> Roll No - 2006190 </b>  </h1>
+              
+              
+            </div>
+          
+            ></center>
+            
+          
+            
+              
+</body>
+</html>
